@@ -1,0 +1,9 @@
+settings =
+{
+    orientation =
+    {
+        default = "portrait",  --initial launch orientation
+        content = "",  --locked orientation of the Corona stage, independent of Native UI elements (iOS only)
+        supported = { },  --table of allowed options for auto-orientation
+    },
+}
